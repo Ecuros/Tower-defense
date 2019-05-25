@@ -13,9 +13,9 @@ public class HP_script : MonoBehaviour
     }
 
     
-    void Update()
+    void FixedUpdate()
     {
-        
+        damage();
     }
 
     
